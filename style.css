@@ -111,7 +111,6 @@ body{
     width: 20px;
     height: 20px;
     cursor: pointer;
-
 }
 
 label {
@@ -130,11 +129,10 @@ label {
     bottom: 30px;
 }
 
-.fraca{
+.fraca {
     width: 25%;
     background-color: #E71B32;
 }
-
 .parametro-senha-textos {
     display: flex;
     justify-content: space-between;
