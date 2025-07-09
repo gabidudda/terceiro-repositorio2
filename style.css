@@ -133,6 +133,18 @@ label {
     width: 25%;
     background-color: #E71B32;
 }
+
+
+.media{
+    width: 50%;
+    background-color: #FAF408;
+}
+
+.forte {
+    width: 100%;
+    background-color: #00FF85;
+}
+
 .parametro-senha-textos {
     display: flex;
     justify-content: space-between;
